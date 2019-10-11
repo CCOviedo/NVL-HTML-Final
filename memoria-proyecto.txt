@@ -1,0 +1,4 @@
+No sé a que os referís con memoria de proyecto, nunca he hecho una.
+Lo que he hecho en el proyecto a sido, a modo de resumen, un conjunto de las cosas que se han enseñado en este modulo.
+He puesto cabeceras (hX), un enlace, parrafos, una tabla, una lista, una imagen, elementos de bloque, 
+etiquetas vacias y un formulario, todo ello con algo de diseño in-line.
